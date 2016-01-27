@@ -12,6 +12,8 @@
 \beamer@subsectionintoc {3}{2}{EUDAQ}{13}{0}{3}
 \beamer@subsectionintoc {3}{3}{WBC scan}{14}{0}{3}
 \beamer@subsectionintoc {3}{4}{Efficiency Optimisation}{15}{0}{3}
-\beamer@sectionintoc {4}{The Measurements}{17}{0}{4}
-\beamer@sectionintoc {5}{The Analysis}{19}{0}{5}
-\beamer@subsectionintoc {5}{1}{Online Monitor}{20}{0}{5}
+\beamer@subsectionintoc {3}{5}{Current Monitor}{17}{0}{3}
+\beamer@sectionintoc {4}{The Measurements}{18}{0}{4}
+\beamer@sectionintoc {5}{The Analysis}{20}{0}{5}
+\beamer@subsectionintoc {5}{1}{Online Monitor}{21}{0}{5}
+\beamer@subsectionintoc {5}{2}{Tracking}{22}{0}{5}

@@ -112,6 +112,14 @@
 % ====================================================================================
 \section{The Pixel Setup}
 \begin{frame}
+	\begin{alertblock}{
+		\begin{center}
+			\Large{\textbf{The Pixel Setup}}
+		\end{center}}
+	\end{alertblock}
+\end{frame}
+% new frame ==================
+\begin{frame}
 	\frametitle{Pixel Setup}
 	\begin{center}
 		\begin{minipage}{4.5cm}
@@ -191,6 +199,13 @@
 % DATATAKING
 % ====================================================================================
 \section{The Datataking}
+\begin{frame}
+	\begin{alertblock}{
+		\begin{center}
+			\Large{\textbf{The Datataking}}
+		\end{center}}
+	\end{alertblock}
+\end{frame}
 % ============================
 % pXar
 \subsection{pXar}
@@ -211,13 +226,13 @@
 \subsection{EUDAQ}
 \begin{frame}
 	\frametitle{EUDAQ}
-	\begin{center}
-		\begin{minipage}{4.5cm}
-			\centering
-			\includegraphics[width=4.2cm]{Pics/eudaq}
-		\end{minipage}
-		\hspace*{2pt}
-		\begin{minipage}{6cm}
+% 	\begin{center}
+% 		\begin{minipage}{4.5cm}
+% 			\centering
+% 			\includegraphics[width=4.2cm]{Pics/eudaq}
+% 		\end{minipage}
+% 		\hspace*{2pt}
+% 		\begin{minipage}{6cm}
 			\begin{itemize}
 				\item portable, modular and cross-platform DAQ framework
 				\item developed for the EUDET Pixel Telescope
@@ -225,8 +240,8 @@
 				\item adapting software to our purposes with help of DESY 
 				\item using pXar core libraries
 			\end{itemize}
-		\end{minipage}\no\s
-	\end{center}
+% 		\end{minipage}\no\s
+% 	\end{center}
 \end{frame}
 % ============================
 % WBC SCAN
@@ -283,6 +298,14 @@
 % ====================================================================================
 \section{The Measurements}
 \begin{frame}
+	\begin{alertblock}{
+		\begin{center}
+			\Large{\textbf{The Measurements}}
+		\end{center}}
+	\end{alertblock}
+\end{frame}
+% new frame ==================
+\begin{frame}
 	\frametitle{Types of Measurements}
 	\begin{itemize}
 		\item beam rate scans
@@ -302,10 +325,70 @@
 % ====================================================================================
 \section{The Analysis}
 \begin{frame}
-	\frametitle{Types of Measurements}
-	\begin{itemize}
-		\item
-	\end{itemize}
+	\begin{alertblock}{
+		\begin{center}
+			\Large{\textbf{The Analysis}}
+		\end{center}}
+	\end{alertblock}
+\end{frame}
+% ============================
+% ONLINEMON
+\subsection{Online Monitor}
+\begin{frame}
+	\frametitle{Correlations}
+	\begin{center}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1x.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1y.png}
+		\end{minipage}\no\s
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation2y.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation3y.png}
+		\end{minipage}\no\s
+	\end{center}
+\end{frame}
+% new frame ==================
+% \begin{frame}
+% 	\frametitle{Signal Distribution}
+% 	\begin{itemize}
+% 		\item
+% 	\end{itemize}
+% \end{frame}
+% ============================
+% TRACKING
+\subsection{Tracking}
+\begin{frame}
+	\frametitle{Correlations}
+	\begin{center}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1x.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1y.png}
+		\end{minipage}\no\s
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation2y.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation3y.png}
+		\end{minipage}\no\s
+	\end{center}
 \end{frame}
 % ============================
 % DOCUMENT END

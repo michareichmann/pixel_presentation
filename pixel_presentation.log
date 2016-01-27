@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.8)  10 DEC 2015 18:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.11)  11 DEC 2015 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,7 +1203,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <5> not available
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
 (Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 16.
 
-<Pics/setupfull.png, id=91, 1166.3575pt x 721.69624pt>
+<Pics/setupfull.png, id=101, 1166.3575pt x 721.69624pt>
 File: Pics/setupfull.png Graphic file (type png)
 
 <use Pics/setupfull.png>
@@ -1216,7 +1216,7 @@ Package pdftex.def Info: Pics/setupfull.png used on input line 33.
 ] [3
 
 ]
-<Pics/setup.png, id=214, 1306.8825pt x 783.92876pt>
+<Pics/setup.png, id=234, 1306.8825pt x 783.92876pt>
 File: Pics/setup.png Graphic file (type png)
  <use Pics/setup.png>
 Package pdftex.def Info: Pics/setup.png used on input line 66.
@@ -1260,7 +1260,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
 (Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 66.
  [4
 
- <./Pics/setup.png>] <Pics/mb2.png, id=240, 961.5925pt x 1243.64626pt>
+ <./Pics/setup.png>] <Pics/mb2.png, id=262, 961.5925pt x 1243.64626pt>
 File: Pics/mb2.png Graphic file (type png)
  <use Pics/mb2.png>
 Package pdftex.def Info: Pics/mb2.png used on input line 89.
@@ -1268,7 +1268,7 @@ Package pdftex.def Info: Pics/mb2.png used on input line 89.
 
 [5
 
- <./Pics/mb2.png>] <Pics/digada.png, id=265, 534.99875pt x 699.61375pt>
+ <./Pics/mb2.png>] <Pics/digada.png, id=289, 534.99875pt x 699.61375pt>
 File: Pics/digada.png Graphic file (type png)
 
 <use Pics/digada.png>
@@ -1279,39 +1279,35 @@ Package pdftex.def Info: Pics/digada.png used on input line 109.
  <./Pics/digada.png>] [7
 
 ]
-<Pics/fulltel_scint.png, id=314, 516.93124pt x 861.2175pt>
+<Pics/fulltel_scint.png, id=342, 582.175pt x 861.2175pt>
 File: Pics/fulltel_scint.png Graphic file (type png)
 
 <use Pics/fulltel_scint.png>
-Package pdftex.def Info: Pics/fulltel_scint.png used on input line 140.
-(pdftex.def)             Requested size: 113.81102pt x 189.59984pt.
-
-Overfull \vbox (0.21852pt too high) detected at line 140
- []
-
-[8
+Package pdftex.def Info: Pics/fulltel_scint.png used on input line 141.
+(pdftex.def)             Requested size: 113.81102pt x 168.35068pt.
+ [8
 
  <./Pics/fulltel_scint.png>]
-<Pics/dtb_inside.png, id=339, 912.40875pt x 671.50874pt>
+<Pics/dtb_inside.png, id=369, 912.40875pt x 671.50874pt>
 File: Pics/dtb_inside.png Graphic file (type png)
 
 <use Pics/dtb_inside.png>
-Package pdftex.def Info: Pics/dtb_inside.png used on input line 170.
+Package pdftex.def Info: Pics/dtb_inside.png used on input line 171.
 (pdftex.def)             Requested size: 128.0374pt x 94.22575pt.
 
-<Pics/DTB-Sides.png, id=340, 1448.41125pt x 996.72375pt>
+<Pics/DTB-Sides.png, id=370, 1448.41125pt x 996.72375pt>
 File: Pics/DTB-Sides.png Graphic file (type png)
 
 <use Pics/DTB-Sides.png>
-Package pdftex.def Info: Pics/DTB-Sides.png used on input line 170.
+Package pdftex.def Info: Pics/DTB-Sides.png used on input line 171.
 (pdftex.def)             Requested size: 128.0374pt x 88.10434pt.
  [9
 
  <./Pics/dtb_inside.png> <./Pics/DTB-Sides.png>]
-<Pics/triglog2.png, id=366, 1591.9475pt x 1445.4pt>
+<Pics/triglog2.png, id=398, 1591.9475pt x 1445.4pt>
 File: Pics/triglog2.png Graphic file (type png)
  <use Pics/triglog2.png>
-Package pdftex.def Info: Pics/triglog2.png used on input line 195.
+Package pdftex.def Info: Pics/triglog2.png used on input line 196.
 (pdftex.def)             Requested size: 170.71652pt x 154.98048pt.
 
 [10
@@ -1319,27 +1315,21 @@ Package pdftex.def Info: Pics/triglog2.png used on input line 195.
  <./Pics/triglog2.png>] [11
 
 ]
-<Pics/pxar_logo.png, id=415, 355.3275pt x 214.8025pt>
+<Pics/pxar_logo.png, id=451, 355.3275pt x 214.8025pt>
 File: Pics/pxar_logo.png Graphic file (type png)
  <use Pics/pxar_logo.png>
-Package pdftex.def Info: Pics/pxar_logo.png used on input line 222.
+Package pdftex.def Info: Pics/pxar_logo.png used on input line 223.
 (pdftex.def)             Requested size: 85.35826pt x 51.59953pt.
 
 [12
 
- <./Pics/pxar_logo.png>] <Pics/eudaq.png, id=440, 954.56625pt x 684.5575pt>
-File: Pics/eudaq.png Graphic file (type png)
+ <./Pics/pxar_logo.png>] [13
 
-<use Pics/eudaq.png>
-Package pdftex.def Info: Pics/eudaq.png used on input line 244.
-(pdftex.def)             Requested size: 119.50148pt x 85.69481pt.
- [13
-
- <./Pics/eudaq.png>]
-<Pics/wbcscan1.png, id=466, 532.99126pt x 598.235pt>
+]
+<Pics/wbcscan1.png, id=504, 532.99126pt x 598.235pt>
 File: Pics/wbcscan1.png Graphic file (type png)
  <use Pics/wbcscan1.png>
-Package pdftex.def Info: Pics/wbcscan1.png used on input line 267.
+Package pdftex.def Info: Pics/wbcscan1.png used on input line 268.
 (pdftex.def)             Requested size: 113.81102pt x 127.7417pt.
 
 [14
@@ -1347,26 +1337,96 @@ Package pdftex.def Info: Pics/wbcscan1.png used on input line 267.
  <./Pics/wbcscan1.png>] [15
 
 ]
-<Pics/optimisation.png, id=516, 1437.37pt x 827.09pt>
+<Pics/optimisation.png, id=558, 1437.37pt x 827.09pt>
 File: Pics/optimisation.png Graphic file (type png)
 
 <use Pics/optimisation.png>
-Package pdftex.def Info: Pics/optimisation.png used on input line 294.
+Package pdftex.def Info: Pics/optimisation.png used on input line 295.
 (pdftex.def)             Requested size: 222.50493pt x 128.0374pt.
  [16
 
- <./Pics/optimisation.png>] [17
+ <./Pics/optimisation.png>]
+<Pics/currents.png, id=585, 983.675pt x 451.6875pt>
+File: Pics/currents.png Graphic file (type png)
+ <use Pics/currents.png>
+Package pdftex.def Info: Pics/currents.png used on input line 309.
+(pdftex.def)             Requested size: 247.85439pt x 113.81102pt.
 
-] [18
+[17
+
+ <./Pics/currents.png>] [18
 
 ] [19
 
-]
-[20
-
-] [21
+] [20
 
 ]
+<Pics/correlation1x.png, id=687, 1217.54875pt x 957.5775pt>
+File: Pics/correlation1x.png Graphic file (type png)
+
+<use Pics/correlation1x.png>
+Package pdftex.def Info: Pics/correlation1x.png used on input line 388.
+(pdftex.def)             Requested size: 113.81102pt x 89.50966pt.
+
+<Pics/correlation1y.png, id=688, 1217.54875pt x 957.5775pt>
+File: Pics/correlation1y.png Graphic file (type png)
+
+<use Pics/correlation1y.png>
+Package pdftex.def Info: Pics/correlation1y.png used on input line 388.
+(pdftex.def)             Requested size: 113.81102pt x 89.50966pt.
+
+<Pics/correlation2y.png, id=689, 1217.54875pt x 957.5775pt>
+File: Pics/correlation2y.png Graphic file (type png)
+
+<use Pics/correlation2y.png>
+Package pdftex.def Info: Pics/correlation2y.png used on input line 388.
+(pdftex.def)             Requested size: 113.81102pt x 89.50966pt.
+
+<Pics/correlation3y.png, id=690, 1217.54875pt x 957.5775pt>
+File: Pics/correlation3y.png Graphic file (type png)
+
+<use Pics/correlation3y.png>
+Package pdftex.def Info: Pics/correlation3y.png used on input line 388.
+(pdftex.def)             Requested size: 113.81102pt x 89.50966pt.
+
+Overfull \vbox (2.47491pt too high) detected at line 388
+ []
+
+[21
+
+ <./Pics/correlation1x.png> <./Pics/correlation1y.png> <./Pics/correlation2y.pn
+g> <./Pics/correlation3y.png>]
+<Pics/PulseHeight_ROC5.png, id=720, 698.61pt x 473.77pt>
+File: Pics/PulseHeight_ROC5.png Graphic file (type png)
+
+<use Pics/PulseHeight_ROC5.png>
+Package pdftex.def Info: Pics/PulseHeight_ROC5.png used on input line 416.
+(pdftex.def)             Requested size: 156.49014pt x 106.12375pt.
+
+<Pics/PulseHeight_ROC6.png, id=721, 698.61pt x 473.77pt>
+File: Pics/PulseHeight_ROC6.png Graphic file (type png)
+
+<use Pics/PulseHeight_ROC6.png>
+Package pdftex.def Info: Pics/PulseHeight_ROC6.png used on input line 416.
+(pdftex.def)             Requested size: 156.49014pt x 106.12375pt.
+ [22
+
+ <./Pics/PulseHeight_ROC5.png> <./Pics/PulseHeight_ROC6.png>] <Pics/Tracks_Ev2.
+png, id=750, 798.985pt x 774.895pt>
+File: Pics/Tracks_Ev2.png Graphic file (type png)
+
+<use Pics/Tracks_Ev2.png>
+Package pdftex.def Info: Pics/Tracks_Ev2.png used on input line 434.
+(pdftex.def)             Requested size: 156.49014pt x 151.77196pt.
+ <Pics/Tracks_Ev7.png, id=751, 798.985pt x 774.895pt>
+File: Pics/Tracks_Ev7.png Graphic file (type png)
+
+<use Pics/Tracks_Ev7.png>
+Package pdftex.def Info: Pics/Tracks_Ev7.png used on input line 434.
+(pdftex.def)             Requested size: 156.49014pt x 151.77196pt.
+ [23
+
+ <./Pics/Tracks_Ev2.png> <./Pics/Tracks_Ev7.png>]
 \tf@nav=\write7
 \openout7 = `pixel_presentation.nav'.
 
@@ -1376,20 +1436,21 @@ Package pdftex.def Info: Pics/optimisation.png used on input line 294.
 \tf@snm=\write9
 \openout9 = `pixel_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 350.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 350.
- (./pixel_presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 350.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 350.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
+
+(./pixel_presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
 Package rerunfilecheck Info: File `pixel_presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 98D3E5E0EC5DFD21ADCBCA7718651E25;858.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 350.
+(rerunfilecheck)             Checksum: 6339418882DF9A50A45B5EBF079D662C;983.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 437.
  ) 
 Here is how much of TeX's memory you used:
- 22300 strings out of 493304
- 425749 string characters out of 6139871
- 504461 words of memory out of 5000000
- 25150 multiletter control sequences out of 15000+600000
+ 22356 strings out of 493304
+ 426922 string characters out of 6139870
+ 507115 words of memory out of 5000000
+ 25192 multiletter control sequences out of 15000+600000
  47348 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,19n,63p,10402b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1401,10 +1462,10 @@ s9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso
 8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on pixel_presentation.pdf (21 pages, 9548632 bytes).
+Output written on pixel_presentation.pdf (23 pages, 9743742 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 611 compressed objects within 7 object streams
- 58 named destinations out of 1000 (max. 500000)
- 259 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 828 PDF objects out of 1000 (max. 8388607)
+ 714 compressed objects within 8 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 315 words of extra memory for PDF output out of 10000 (max. 10000000)
 

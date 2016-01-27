@@ -118,6 +118,7 @@
 		\end{center}}
 	\end{alertblock}
 \end{frame}
+% new frame ==================
 \begin{frame}
 	\frametitle{Pixel Setup}
 	\begin{center}
@@ -147,7 +148,7 @@
 		\item FPGA including soft Token Bit Manager (TBM) emulator
 		\item clock and external trigger inputs
 		\item connectors: USB, low voltage and scsi 
-		\item LEMO high voltage input 
+		\item LEMO high voltage input for biasing the sensors
 		\item internal ADC
 	\end{itemize}
 	\begin{center}
@@ -181,7 +182,7 @@
 		\hspace*{2pt}
 		\begin{minipage}{5cm}
 			\begin{itemize}
-				\item coincidence between a fast-Or before and after the DUT
+				\item coincidence between a fast-OR of planes before and after the DUT
 				\item AND of scintillator and fast-OR coincidence as trigger
 				\item trigger has adjustable delays for both telescopes
 				\item global external clock with adjustable delays for pixel telescope
@@ -225,13 +226,13 @@
 \subsection{EUDAQ}
 \begin{frame}
 	\frametitle{EUDAQ}
-	\begin{center}
-		\begin{minipage}{4.5cm}
-			\centering
-			\includegraphics[width=4.2cm]{Pics/eudaq}
-		\end{minipage}
-		\hspace*{2pt}
-		\begin{minipage}{6cm}
+% 	\begin{center}
+% 		\begin{minipage}{4.5cm}
+% 			\centering
+% 			\includegraphics[width=4.2cm]{Pics/eudaq}
+% 		\end{minipage}
+% 		\hspace*{2pt}
+% 		\begin{minipage}{6cm}
 			\begin{itemize}
 				\item portable, modular and cross-platform DAQ framework
 				\item developed for the EUDET Pixel Telescope
@@ -239,8 +240,8 @@
 				\item adapting software to our purposes with help of DESY 
 				\item using pXar core libraries
 			\end{itemize}
-		\end{minipage}\no\s
-	\end{center}
+% 		\end{minipage}\no\s
+% 	\end{center}
 \end{frame}
 % ============================
 % WBC SCAN
@@ -292,6 +293,20 @@
 
 	\end{itemize}
 \end{frame}
+% ============================
+% CURRENTS
+\subsection{Current Monitor}
+\begin{frame}
+	\frametitle{Current Monitor}
+	\begin{center}
+		\includegraphics[height=4cm]{Pics/currents}
+	\end{center}
+	\begin{itemize}
+		\item monitoring of the currents of the diamonds during the whole beam test
+		\item beam induced currents for higher rates
+		\item current drops to 0 at beam interruptions
+	\end{itemize}
+\end{frame}
 % ====================================================================================
 % MEASUREMENTS
 % ====================================================================================
@@ -303,10 +318,20 @@
 		\end{center}}
 	\end{alertblock}
 \end{frame}
+% new frame ==================
 \begin{frame}
 	\frametitle{Types of Measurements}
 	\begin{itemize}
-		\item beam rate scans
+		\item two beam tests at PSI
+		\item tested diamonds unirradiated:
+			\begin{itemize}
+				\item II6-94, II6-95
+			\end{itemize}
+		\item tested diamonds irradiated:
+			\begin{itemize}
+				\item II6-95
+			\end{itemize}
+		\item beam rate scans (up$\rightarrow$down$\rightarrow$up)
 		\item different bias voltages
 		\item closing beam shutter before the run was startet and open it during the begin of the run
 		\item not closing the beam shutter
@@ -328,22 +353,84 @@
 			\Large{\textbf{The Analysis}}
 		\end{center}}
 	\end{alertblock}
+	\begin{itemize}
+		\item preliminary results
+		\item offline analysis has not started yet
+		\item online analysis during the beam test with online monitor
+		\item pre analysis with tracking software
+	\end{itemize}
 \end{frame}
 % ============================
 % ONLINEMON
 \subsection{Online Monitor}
 \begin{frame}
 	\frametitle{Correlations}
-	\begin{itemize}
-		\item
-	\end{itemize}
+	\begin{center}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1x.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation1y.png}
+		\end{minipage}\no\s
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation2y.png}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=4.0cm]{Pics/correlation3y.png}
+		\end{minipage}\no\s
+	\end{center}
 \end{frame}
 % new frame ==================
+% \begin{frame}
+% 	\frametitle{Signal Distribution}
+% 	\begin{itemize}
+% 		\item
+% 	\end{itemize}
+% \end{frame}
+% ============================
+% TRACKING
+\subsection{Tracking}
 \begin{frame}
-	\frametitle{Signal Distribution}
-	\begin{itemize}
-		\item
+	\frametitle{Pulseheight Distribution}
+	\begin{center}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=5.5cm]{Pics/PulseHeight_ROC5}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=5.5cm]{Pics/PulseHeight_ROC6}
+		\end{minipage}\no\s
+		\begin{itemize}
+		\item ROC5 digital silicon ROC well calibrated with Xray fluorescent lines
+		\item ROC6 digital diamond pixel chip, not calibrated
 	\end{itemize}
+	\end{center}
+\end{frame}
+% new frame ==========================
+\begin{frame}
+	\frametitle{Event Display}
+	\begin{center}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=5.5cm]{Pics/Tracks_Ev2}
+		\end{minipage}
+		\hspace*{2pt}
+		\begin{minipage}{5.5cm}
+			\centering
+			\includegraphics[width=5.5cm]{Pics/Tracks_Ev7}
+		\end{minipage}\no\s
+		\begin{itemize}
+		\item display of random events of a run
+	\end{itemize}
+	\end{center}
 \end{frame}
 % ============================
 % DOCUMENT END
